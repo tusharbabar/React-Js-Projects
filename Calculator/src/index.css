@@ -1,0 +1,16 @@
+.controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100px;
+    height: 40px;
+
+
+}
+.cdn{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+
+}

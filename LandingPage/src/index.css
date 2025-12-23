@@ -1,0 +1,29 @@
+
+.main{
+    display: flex;
+    /* border: 1px solid black; */
+    height: 35rem;
+    width: 98%;
+    background-image: url("../Unveiling_the_Splendor.jpg-1.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+.min{
+    margin-top: 5rem;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+
+
+}
+.min h1{
+    color: white;
+}
+
+.span{
+    color: rgb(155, 233, 103);
+    
+}
